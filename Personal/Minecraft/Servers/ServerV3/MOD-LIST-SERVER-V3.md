@@ -148,8 +148,6 @@ This is a library mod for some of YUNG's **Forge** mods. It's basically a coll
 ## [YUNG's Better Mineshafts](http://curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
 This mod completely revamps vanilla **abandoned mineshafts**, changing them from boring straight lines into dynamic, varied webs of tunnels.  
 Find loot tucked away in the corners of abandoned workstations, or out in the open in a chest on a minecart.
-## [YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)
-YUNG's Better Caves completely overhauls Minecraft's cave systems. Caves are small and unassuming at the surface, but the deeper you go, the crazier things get. You'll find **lava caverns**, **underground lakes and rivers**, **flooded caverns**, and **more**!
 ## [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
 A complete redesign of **Minecraft strongholds** like never before, making them much more complex and exciting while still staying true to vanilla themes. There are over 15 different rooms, various types of tunnels and hallways, staircases, traps, and even hidden areas!
 ## [YUNG's Better Dungeons](http://curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
