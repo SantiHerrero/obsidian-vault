@@ -1,3 +1,9 @@
+---
+tags:
+  - server
+  - modding
+  - v3
+---
 Directamente vamos por un server mas **chill**, sin cosas rotas conocidas y que todos vayan a un mismo ritmo.
 # [Ad-Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)
 Ad Astra! is a space mod for Fabric and Forge with a **focus on technology, travel and exploration**. We've got everything you need to become an astronaut: rockets, space suits, space stations and machines.
