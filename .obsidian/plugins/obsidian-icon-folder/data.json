@@ -6,10 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBox",
-      "LiLibraryBig",
-      "LiAlertCircle",
-      "LiAnchor"
+      "LiCode",
+      "LiBug",
+      "LiServer",
+      "LiPickaxe",
+      "LiSun"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +45,21 @@
   "Agni/MIDAS": {
     "iconName": "LiBox",
     "iconColor": "#ff8c00"
+  },
+  "Personal/Solar panels": {
+    "iconName": "LiSun",
+    "iconColor": "#ffb347"
+  },
+  "Personal/Minecraft": {
+    "iconName": "LiPickaxe",
+    "iconColor": "#7fb238"
+  },
+  "Personal/Minecraft/Servers": {
+    "iconName": "LiServer",
+    "iconColor": "#00ffcc"
+  },
+  "Personal/Minecraft/Good Modders.md": {
+    "iconName": "LiCode",
+    "iconColor": "#cc0000"
   }
 }
